@@ -1,4 +1,8 @@
 /**
+ * Copyright (c) 2025 Mohammed Sabry | github.com/Mohammedsabry13
+ */
+
+/**
  * ========================================
  * ITHUB - Main JavaScript File
  * ========================================
