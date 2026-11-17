@@ -3,6 +3,8 @@ credit is required: github.com/Mohammedsabry13
 
 # iTHub — IT Consulting & Tech Solutions Corporate Website
 
+![Screenshot](screenshot.png)
+
 A feature-rich corporate website for **iTHub-iT Consulting**, a technology solutions and IT services company delivering digital transformation, startup tech solutions, and IT consulting with 97% success rate and 8M+ satisfied clients.
 
 ## 🛠️ Tech Stack
